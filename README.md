@@ -13,6 +13,6 @@ Windows Installation Instructions:
 
 MacOS Installation Instructions:
 
-1. Download and Unzip Fabulous Filter.component.zip or Fabulous Filter.vst3.zip
+1. Download and Unzip Fabulous Filter.component.zip
 
-2. Place .component or .vst3 in ~/Library/Audio/Plug-Ins/Components or ~/Library/Audio/Plug-Ins/VST3, respectively
+2. Place .component in ~/Library/Audio/Plug-Ins/Components
