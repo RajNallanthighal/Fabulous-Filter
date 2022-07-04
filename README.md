@@ -15,4 +15,4 @@ MacOS Installation Instructions:
 
 1. Download and Unzip Fabulous Filter.component.zip
 
-2. Place .component in ~/Library/Audio/Plug-Ins/Components
+2. Place .component in ~/Library/Audio/Plug-Ins/Components and in Macintosh HD/Library/Audio/Plug-Ins/Components
