@@ -3,7 +3,7 @@ Fabulous-Filter
 ![Capture](https://user-images.githubusercontent.com/88398020/177480879-a9db8d73-81e3-4065-a19b-70b6081f67db.JPG)
 
 
-Butterworth Bandpass Filter Plugin with Low and High Order Settings created using JUCE Audio Framework in C++
+Butterworth high and low pass filters of selected order created around selected left and right cutoff frequencies, respectively. 
 
 
 Windows Installation Instructions:
