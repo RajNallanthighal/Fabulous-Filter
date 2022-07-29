@@ -3,7 +3,7 @@ Fabulous-Filter
 ![Capture](https://user-images.githubusercontent.com/88398020/177480879-a9db8d73-81e3-4065-a19b-70b6081f67db.JPG)
 
 
-Butterworth high and low pass filters of selected order created around selected left and right cutoff frequencies, respectively. 
+Creates butterworth high and low pass filters of selected order around selected left and right cutoff frequencies, respectively. 
 
 
 Windows Installation Instructions:
